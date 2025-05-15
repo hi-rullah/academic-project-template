@@ -15,6 +15,7 @@ Example project pages built using this template are:
 - https://horwitz.ai/3d_ads/
 - https://vision.huji.ac.il/ssrl_ad
 - https://vision.huji.ac.il/deepsim
+- https://dextrah-rgb.github.io/
 
 
 
